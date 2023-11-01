@@ -1,5 +1,4 @@
-// App.js
-import React, { useState } from 'react';
+import React from 'react';
 import Formulario from './Formulario';
 import Card from './Card';
 
